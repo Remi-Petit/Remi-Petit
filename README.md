@@ -32,29 +32,6 @@ Actuellement : mon propre lecteur de bibliothèque auto-hébergé, [**easybook**
 
 ---
 
-## 🚀 Projets
-
-### ⭐ En avant
-
-| Projet | Description | Stack |
-| --- | --- | --- |
-| [**easybook**](https://github.com/Remi-Petit/easybook) | Bibliothèque de livres auto-hébergée : backend Rust qui surveille un dossier, front SvelteKit pour lire **EPUB, CBZ et PDF** dans le navigateur (manga, doubles pages, raccourcis clavier). | `Rust` `Axum` `SvelteKit` `Docker` |
-| [**easy3d**](https://github.com/Remi-Petit/easy3d) | Moteur / outil 3D en Rust. | `Rust` |
-| [**Turbotron32**](https://github.com/Remi-Petit/Turbotron32) | Projet IoT : pilotage d'une voiture **Freenove ESP32** via MQTT + WebSocket. | `ESP32` `MQTT` `Python` `React` |
-| [**M2L_Mobile**](https://github.com/Remi-Petit/M2L_Mobile) | Application web/mobile de gestion multi-ligue. | `Flutter` `Dart` |
-| [**PFC**](https://github.com/Remi-Petit/PFC) | Pierre-Feuille-Ciseaux multijoueur en temps réel. | `JavaScript` `WebSocket` |
-| [**Pygame**](https://github.com/Remi-Petit/Pygame) | Petit jeu 2D. | `Python` `Pygame` |
-
-### 🎓 Projets académiques (EFREI)
-
-- [**Data-Science-EFREI**](https://github.com/Remi-Petit/Data-Science-EFREI) — modèles d'IA pour l'interprétation de données (`Jupyter`).
-- [**AWS_EFREI_Rendu**](https://github.com/Remi-Petit/AWS_EFREI_Rendu) — infrastructure as code (`Terraform` / `HCL`).
-- [**Projet_Solaris_EFREI**](https://github.com/Remi-Petit/Projet_Solaris_EFREI) — projet Python.
-- [**microservice-efrei-spring-boot**](https://github.com/Remi-Petit/microservice-efrei-spring-boot) — architecture microservices (`Java` / `Spring Boot`).
-- [**Projet_Full_Stack_JS_Efrei**](https://github.com/Remi-Petit/Projet_Full_Stack_JS_Efrei) et [**cicd-tasklist**](https://github.com/Remi-Petit/cicd-tasklist-frontend-certif) — full-stack + CI/CD (`TypeScript`).
-
----
-
 ## ⚙️ Ce qui m'intéresse
 
 - **Self-hosting** & souveraineté des données : je préfère héberger mes outils que dépendre d'un service tiers.
